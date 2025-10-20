@@ -6,5 +6,6 @@ nav_order: 1
 
 ### A third-level heading
 `#0969DA`
-** We outside ** 
-* * We outside * *
+**We outside**
+_We outside_
+<sup>outside</sup>
